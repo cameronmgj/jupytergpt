@@ -10,5 +10,3 @@
    run the command 'solara run \functional.ipynb'
    start the kernel
    enter requests into first text input field widget and click submit
-
-///logging currently not functional
