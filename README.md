@@ -16,4 +16,4 @@
 REMEMBER TO ADD YOUR OPENAI API KEY TO:
 	"Authorization": "[REDACTED]"
 REPLACE [REDACTED] WITH YOUR KEY. LIKE THIS:
-	"Authorization": "bearer aa-1234blablabla"
+	"Authorization": "Bearer aa-1234blablabla"
